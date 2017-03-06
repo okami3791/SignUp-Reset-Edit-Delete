@@ -7,14 +7,7 @@
 <title>Failure!</title>
 </head>
 <body bgColor=skyblue >
-<table bgColor=#0070BB width=100%>
-<tr>
-<td>
-<h1 align="center">ONLINE SHOPPING STORE FOR BOOKS.</h1>
-</td>
-</tr>
-</table>
-<h2>User Registered Unuccessfully.......</h2><br><br>
-<a href="SignUp.jsp">Click here to Try Again</a>
+<h2>User Registered Unsuccessfully</h2><br><br>
+<a href="Register.jsp">Click here to Try Again</a>
 </body>
 </html>

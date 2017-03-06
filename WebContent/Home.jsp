@@ -6,7 +6,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Home</title>
 </head>
-<body>
+<body bgColor=skyblue >
 <h2><center>Registration Details:</center></h2>
 <object align = left>
 <a href=Register.jsp>Signup:</a><br>

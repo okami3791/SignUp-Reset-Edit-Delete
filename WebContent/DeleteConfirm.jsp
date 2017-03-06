@@ -4,12 +4,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Confirm Delete</title>
 </head>
 <body bgColor=skyblue >
 <jsp:include page="Home.jsp"></jsp:include>
 <center>
-<form action="EditServ" method="post">
+<form action="DeleteUSer" method="post">
 <table>
 <tr>
 <td><b>UserName ::</td></b>

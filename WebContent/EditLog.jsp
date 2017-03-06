@@ -4,17 +4,17 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Edit Login</title>
 </head>
-<body>
+<body bgColor=skyblue >
 <jsp:include page="Home.jsp"></jsp:include>
 <form action="EditLogin" method="post">
 <table align = "center">
 <tr><td>
-<h2>To Edit your details enter the registered email in the following field:</h2>
+<h2>To Edit your details enter the registered UserName in the following field:</h2>
 </td></tr>
 <tr>
-<td>Enter Email ID:</td><td><input type="text" name = "name" required></td></tr>
+<td>Enter UserName:</td><td><input type="text" name = "name" required></td></tr>
 <tr>
 <td>
 <input type="submit" >
