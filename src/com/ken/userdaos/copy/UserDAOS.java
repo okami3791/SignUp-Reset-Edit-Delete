@@ -34,7 +34,7 @@ public class UserDAOS {
 	}
 	
 	
-	public void deleteUser(UserData u)
+	public void deleteUser(String u)
 	{
 		
 		SessionFactory sf=new Configuration().configure().buildSessionFactory(); ;
